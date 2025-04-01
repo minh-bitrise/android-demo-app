@@ -1,4 +1,4 @@
-hello android test
+hello android test 2
 
 # android-demo-app
 
